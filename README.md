@@ -1,0 +1,2 @@
+# WashingMachine-FuzzyLogic
+This project implements a fuzzy logic system for a washing machine using MATLAB. The system determines the optimal washing cycle time based on two inputs: dirt level and load size. Fuzzy sets and rules are defined using a Mamdani inference system. The model generates membership functions, rule viewer output, and a surface plot to visualize the relationship between inputs and washing time.
